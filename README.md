@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Electrical Engineer by degree, Web developer by passion.</h3>
 
-- 🔭 I’m currently working on [Planetarium](https://github.com/pklepa/shopping-cart)
+- 🔭 Looking for opportunities both as a front-end and full-stack developer
+
+- ✏️ Currently studying Node/Express on [The Odin Project](https://theodinproject.com/)
+
+- 🖥️ My latest project is [Planetarium](https://github.com/pklepa/shopping-cart)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pklepa](https://github.com/pklepa)
 
@@ -9,7 +13,7 @@
 
 - 📫 How to reach me **pedro.klepa@gmail.com**
 
-- ⚡ Fun fact **Italian :it: / Brazilian :brazil:, born and raised in southern Brasil, now living in Liverpool, UK :uk:**
+- ⚡ Fun fact:  **I am an Italian :it: / Brazilian :brazil: born and raised in southern Brasil, now living in Liverpool, UK :uk:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
