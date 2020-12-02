@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pedro.klepa@gmail.com**
 
-- ⚡ Fun fact **Italian :italy: / Brazilian :brazil:, born and raised in southern Brasil, now living in Liverpool, UK :uk:**
+- ⚡ Fun fact **Italian :it: / Brazilian :brazil:, born and raised in southern Brasil, now living in Liverpool, UK :uk:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
