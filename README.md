@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Electrical Engineer by degree, Web developer by passion.</h3>
 
-- 🔭 Looking for opportunities both as a front-end and full-stack developer
+- 🔭 Looking for opportunities as a front-end or full-stack developer
 
 - ✏️ Currently studying Node/Express on [The Odin Project](https://theodinproject.com/)
 
