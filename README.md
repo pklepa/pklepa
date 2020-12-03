@@ -30,5 +30,5 @@
 - Design and UX on [The Odin Project](https://theodinproject.com/courses/html-and-css#design-and-ux)
 - React 101 on [Scrimba](https://scrimba.com/learn/learnreact)
 - Javascript on [The Odin Project](https://theodinproject.com/courses/javascript) - From an introduction in OOP Principles, ES6 Modules, Async APIs, up to React usage, testing w/ Jest and BaaS w/ Firebase.
-- Responsive Web Design on [freecodecamp](https://www.freecodecamp.org/learn/)
+- Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/learn/)
 - Web Foundations on [The Odin Project](https://theodinproject.com/paths/foundations)
