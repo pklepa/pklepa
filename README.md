@@ -7,7 +7,7 @@
 
 - 🖥️ My latest project is [Planetarium](https://github.com/pklepa/shopping-cart)
 
-- 👨‍💻 All of my projects are available at [https://github.com/pklepa](https://github.com/pklepa)
+- 👨‍💻 Most of my projects are available right here at [https://github.com/pklepa](https://github.com/pklepa)
 
 - 💬 Ask me about **Anything!**
 
