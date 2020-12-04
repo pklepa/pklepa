@@ -9,7 +9,7 @@
 
 - 👨‍💻 Most of my projects are available right here at [https://github.com/pklepa](https://github.com/pklepa)
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **anything!**
 
 - 📫 How to reach me **pedro.klepa@gmail.com**
 
