@@ -5,7 +5,7 @@
 
 - ✏️ Currently studying Node/Express on [The Odin Project](https://theodinproject.com/)
 
-- 🖥️ My latest project is [Planetarium](https://github.com/pklepa/shopping-cart)
+- 🖥️ My latest project is my own [Portfolio](https://pklepa.github.io)
 
 - 👨‍💻 Most of my projects are available right here at [https://github.com/pklepa](https://github.com/pklepa)
 
