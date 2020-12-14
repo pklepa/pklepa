@@ -7,7 +7,7 @@
 
 - 🖥️ My latest project is my own [Portfolio](https://pklepa.github.io)
 
-- 👨‍💻 Most of my projects are available right here at [https://github.com/pklepa](https://github.com/pklepa)
+- 👨‍💻 My projects are available right here on Github or at [http://pedroklepa.com/](http://pedroklepa.com/)
 
 - 💬 Ask me about **anything!**
 
