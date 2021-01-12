@@ -5,7 +5,7 @@
 
 - ✏️ Currently studying Node/Express on [The Odin Project](https://theodinproject.com/)
 
-- 🖥️ My latest project is my own [Portfolio](https://pklepa.github.io)
+- 🖥️ My latest project is the blog [Pencil](https://blog-pencil.herokuapp.com/)
 
 - 👨‍💻 My projects are available right here on Github or at [http://pedroklepa.com/](http://pedroklepa.com/)
 
