@@ -5,7 +5,7 @@
 
 - ✏️ Currently studying Node/Express on [The Odin Project](https://theodinproject.com/)
 
-- 🖥️ My latest project is the blog [Pencil](https://blog-pencil.herokuapp.com/)
+- 🖥️ My latest project is [CatWiki](https://cat-wiki.pklepa.vercel.app/), an information packed application about cats!
 
 - 👨‍💻 My projects are available right here on Github or at [http://pedroklepa.com/](http://pedroklepa.com/)
 
@@ -26,6 +26,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="next-js" width="40" height="40"/> </a>
 <a href="https://styled-components.com/" target="_blank"> <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="styled-components" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
