@@ -41,6 +41,7 @@
 
 
 ## Latest steps on my learning journey
+- Next.js from the Ground Up on [Netlify Explorers](https://explorers.netlify.com/learn/nextjs)
 - NodeJS on [The Odin Project](https://theodinproject.com/courses/nodejs) - **in progress**
 - Design and UX on [The Odin Project](https://theodinproject.com/courses/html-and-css#design-and-ux)
 - React 101 on [Scrimba](https://scrimba.com/learn/learnreact)
