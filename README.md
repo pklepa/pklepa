@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Electrical Engineer by degree, Web developer by passion.</h3>
 
-- 🔥 Jr. UI React Developer at NetConstruct
+- 🔥 UI React Developer at NetConstruct
 
 - ✏️ Currently studying Node/Express on [The Odin Project](https://theodinproject.com/)
 
