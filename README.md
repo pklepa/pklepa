@@ -3,10 +3,6 @@
 
 - 🔥 UI React Developer at NetConstruct
 
-- ✏️ Currently studying Node/Express on [The Odin Project](https://theodinproject.com/)
-
-- 🖥️ My latest project is [CatWiki](https://cat-wiki.pklepa.vercel.app/), an information packed application about cats!
-
 - 👨‍💻 My projects are available right here on Github or at [http://pedroklepa.com/](http://pedroklepa.com/)
 
 - 💬 Ask me about **anything!**
