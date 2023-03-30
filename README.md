@@ -30,13 +30,3 @@
 <a href="https://figma.com" target="_blank"> <img src="https://miro.medium.com/max/875/1*6XgfDCVn81AYX68Xvd2I-g@2x.png" alt="figma" width="40" height="40"/> </a> 
 
 </p>
-
-
-## Latest steps on my learning journey
-- Next.js from the Ground Up on [Netlify Explorers](https://explorers.netlify.com/learn/nextjs)
-- NodeJS on [The Odin Project](https://theodinproject.com/courses/nodejs) - **in progress**
-- Design and UX on [The Odin Project](https://theodinproject.com/courses/html-and-css#design-and-ux)
-- React 101 on [Scrimba](https://scrimba.com/learn/learnreact)
-- Javascript on [The Odin Project](https://theodinproject.com/courses/javascript) - From an introduction in OOP Principles, ES6 Modules, Async APIs, up to React usage, testing w/ Jest and BaaS w/ Firebase.
-- Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/learn/)
-- Web Foundations on [The Odin Project](https://theodinproject.com/paths/foundations)
