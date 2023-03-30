@@ -3,13 +3,9 @@
 
 - 🔥 UI React Developer at NetConstruct
 
-- 👨‍💻 My projects are available right here on Github or at [http://pedroklepa.com/](http://pedroklepa.com/)
-
-- 💬 Ask me about **anything!**
-
 - 📫 How to reach me **pedro.klepa@gmail.com**
 
-- ⚡ Fun fact:  **I am an Italian :it: / Brazilian :brazil: born and raised in southern Brasil, now living in Liverpool, UK :uk:**
+- ⚡ Fun fact:  **I am an Italian :it: / Brazilian :brazil: born and raised in southern Brazil, now living in Liverpool, UK :uk:**
 
 ## Connect with me:
 <p align="left">
