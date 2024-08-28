@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">Electrical Engineer by degree, Web developer by passion.</h3>
-
-- 🔥 UI React Developer at NetConstruct
-
-- 📫 How to reach me **pedro.klepa@gmail.com**
-
-- ⚡ Fun fact:  **I am an Italian :it: / Brazilian :brazil: born and raised in southern Brazil, now living in Liverpool, UK :uk:**
 
 ## Connect with me:
 <p align="left">
